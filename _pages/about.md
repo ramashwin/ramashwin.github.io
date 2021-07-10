@@ -17,7 +17,7 @@ I’m a HCI researcher advised by Prof. <a href="http://www.shengdongzhao.com/">
 
 My research focuses on understanding how dynamic information (such as educational videos)should be presented on the emergent smart glasses platform such that users can seamlessly interact with their daily information seeking tasks on the go.
 
-In my free time, I play the guitar and compose songs. I'm also an ex-video gamer.
+In my free time, I play the guitar and compose songs. I'm also an ex-video gamer...
 
 
 <b>Email:</b> ashwinram[at]u[dot]nus[dot]edu
