@@ -2,10 +2,13 @@
 layout: page
 permalink: /publications/
 title: publications
-description: \* denotes equal contribution
+description:
 years: [2021, 2018]
 nav: true
 ---
+
+\* denotes equal contribution
+
 
 <div class="publications">
 
